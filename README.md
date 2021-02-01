@@ -11,4 +11,4 @@
 
 # tidy.txt: Tidy data set created from the above script.
 
-#codebook.txt: Description of each of the variable
+# codebook.txt: Description of each of the variable
